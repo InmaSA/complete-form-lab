@@ -1,3 +1,15 @@
 .box {
   margin-top: 100px;
 }
+
+.alert-error {
+  color: red;
+  border: 1px solid red;
+  background-color:rgba(255, 0, 0, 0.2);
+}
+
+.alert-succes {
+  color: green;
+  border: 1px solid green;
+  background-color:rgba(0, 128, 0, 0.2);
+}
